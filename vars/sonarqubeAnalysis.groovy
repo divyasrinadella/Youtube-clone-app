@@ -4,5 +4,3 @@ def call() {
       -Dsonar.projectkey=Netflix '''
   }
 }
-
-  
